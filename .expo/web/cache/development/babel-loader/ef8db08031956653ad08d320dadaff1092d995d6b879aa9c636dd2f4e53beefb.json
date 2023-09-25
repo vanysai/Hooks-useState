@@ -1,0 +1,1 @@
+{"ast":null,"code":"export {};","map":{"version":3,"names":[],"sources":["C:/Users/jaiza_freire/Documents/HooksuseState/hooks/App.tsx"],"sourcesContent":["import { StatusBar } from 'expo-status-bar';\nimport { StyleSheet, Text, View, TextInput, Button } from 'react-native';\n\n"],"mappings":""},"metadata":{},"sourceType":"module","externalDependencies":[]}

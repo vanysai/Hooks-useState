@@ -140,7 +140,7 @@ const styles = StyleSheet.create({
     padding: 20,
     borderRadius: 10,
     elevation: 3,
-    marginBottom: 20,
+    marginBottom: 21,
   },
   input: {
     height: 40,
